@@ -1,0 +1,69 @@
+== 5. Betrieb (ISO 9001:2015, Kapitel 8)
+
+=== 5.1 Betriebliche Planung und Steuerung
+Die Prozesse zur Erbringung unserer Dienstleistungen werden geplant, um die Anforderungen an Produkte und Dienstleistungen zu erfüllen.
+
+=== 5.2 Anforderungen an Produkte und Dienstleistungen
+
+==== 5.2.1 Kundenkommunikation
+Kommunikation über Produkt-/Dienstleistungsinformationen, Anfragen, Verträge, Auftragsbearbeitung, Kundenfeedback und Beschwerden.
+
+==== 5.2.2 Bestimmung von Anforderungen
+Ermittlung relevanter Kundenanforderungen, gesetzlicher und behördlicher Anforderungen.
+
+==== 5.2.3 Überprüfung von Anforderungen
+Überprüfung der Machbarkeit und Vollständigkeit der Anforderungen vor Auftragsannahme.
+
+==== 5.2.4 Änderungen von Anforderungen
+Änderungen werden dokumentiert und relevanten Parteien kommuniziert.
+
+=== 5.3 Entwicklung von Produkten und Dienstleistungen (falls zutreffend)
+(Dieser Abschnitt wäre nur relevant, wenn Sie eigene, komplexe Lösungen entwickeln. Für Standard-Elektroinstallationen ist er möglicherweise nicht umfassend anwendbar, kann aber für innovative Smart-Home-Konzepte oder spezielle Industriesteuerungen gelten.)
+Wir planen die Entwicklungsphasen, legen Steuerungsmechanismen fest (z.B. Design-Reviews) und dokumentieren die Entwicklungsergebnisse.
+
+=== 5.4 Steuerung von extern bereitgestellten Prozessen, Produkten und Dienstleistungen (Lieferantenmanagement)
+Wir stellen sicher, dass extern bezogene Produkte und Dienstleistungen unseren Anforderungen entsprechen.
+
+==== 5.4.1 Art und Umfang der Steuerung
+Bewertung und Auswahl von Lieferanten anhand objektiver Kriterien (z.B. Qualität des Materials, Liefertreue, Zuverlässigkeit).
+(Dokumentation: Lieferantenbewertung, zugelassene Lieferantenliste)
+
+==== 5.4.2 Informationen für externe Anbieter
+Klare und vollständige Spezifikationen und Anforderungen in Bestellungen.
+
+=== 5.5 Produktion und Dienstleistungserbringung
+
+==== 5.5.1 Steuerung der Produktion und Dienstleistungserbringung
+- Verfügbarkeit dokumentierter Informationen (z.B. Installationspläne, Schaltpläne, Arbeitsanweisungen)
+- Verfügbarkeit geeigneter Ressourcen (Material, Personal, Werkzeuge)
+- Implementierung von Überwachungs- und Messaktivitäten
+- Tätigkeiten zur Freigabe, Lieferung und Tätigkeiten nach der Lieferung
+
+==== 5.5.2 Kennzeichnung und Rückverfolgbarkeit
+Materialien und Produkte werden, wo erforderlich, gekennzeichnet und rückverfolgbar gehalten (z.B. Chargennummern, Seriennummern, Projektbezug).
+
+==== 5.5.3 Eigentum von Kunden oder externen Anbietern
+Sorgfältiger Umgang mit Eigentum Dritter (z.B. gestelltes Material, Zugangsdaten).
+
+==== 5.5.4 Erhaltung
+Schutz und Erhaltung von Produkten während Handhabung, Lagerung, Transport und Lieferung.
+
+==== 5.5.5 Tätigkeiten nach der Lieferung
+Service, Wartung, Gewährleistung, Kundenbetreuung.
+
+==== 5.5.6 Steuerung von Änderungen bei der Produktion/Dienstleistungserbringung
+Geplante Änderungen werden überwacht und dokumentiert.
+
+=== 5.6 Freigabe von Produkten und Dienstleistungen
+Die Fertigstellung von Arbeiten und die Lieferung von Produkten erfolgt erst nach der vollständigen Verifizierung der Konformität mit den Anforderungen und der Autorisierung durch eine befugte Person (z.B. Projektleiter, Meister).
+(Dokumentation: Abnahmeprotokolle, Prüfdokumente nach VDE)
+
+=== 5.7 Steuerung nichtkonformer Ergebnisse (Fehlerhafte Installationen/Produkte)
+Im Falle einer Nichtkonformität (z.B. Installationsfehler, Materialfehler, Kundenreklamation) wird diese identifiziert, dokumentiert und Maßnahmen ergriffen, um die Auslieferung oder weitere Nutzung zu verhindern.
+
+- Korrektur
+- Separierung/Zurückhalten
+- Information des Kunden
+- Einholung einer Freigabe für Abweichungen
+- Dokumentation von Maßnahmen
+(Dokumentation: Nichtkonformitätsberichte, Reklamationsmanagement)

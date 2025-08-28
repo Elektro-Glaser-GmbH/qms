@@ -1,0 +1,42 @@
+=== Anhang A: Organigramm
+
+(Hier würde eine Abbildung des Organigramms der Elektro-Glaser GmbH eingefügt, z.B. als PNG oder SVG.)
+image::organigramm.png[Organigramm der Elektro-Glaser GmbH, 500, 300]
+
+=== Anhang B: Prozesslandkarte
+
+(Hier würde eine Abbildung der Prozesslandkarte eingefügt, die die Kern- und Unterstützungsprozesse sowie deren Wechselwirkungen visualisiert.)
+image::prozesslandkarte.png[Prozesslandkarte der Elektro-Glaser GmbH, 700, 400]
+
+=== Anhang C: Liste der wichtigsten relevanten externen Regelwerke
+
+*   VDE 0100-xxx (Bestimmungen für das Errichten von Starkstromanlagen mit Nennspannungen bis 1000 V)
+*   VDE 0105-100 (Betrieb von elektrischen Anlagen)
+*   VDE 0701-0702 (Wiederholungsprüfung elektrischer Geräte)
+*   DGUV Vorschrift 3 (ehem. BGV A3 - Prüfung elektrischer Anlagen und Betriebsmittel)
+*   Arbeitsschutzgesetz (ArbSchG)
+*   Baustellenverordnung (BaustellV)
+*   [...]
+
+=== Anhang D: Muster für Prüfprotokolle
+
+(Hier könnte ein Muster eines Prüfprotokolls eingefügt werden oder der Verweis auf ein separates Dokument/System, in dem die Formulare abgelegt sind.)
+
+=== Anhang E: Muster für Abnahmeprotokolle
+
+(Muster eines Abnahmeprotokolls.)
+
+=== Anhang F: Muster für Kalibrierzertifikat
+
+(Beispiel eines Kalibrierzertifikats.)
+
+=== Anhang G: Messmittelverzeichnis
+
+(Hier könnte eine Tabelle mit dem Messmittelverzeichnis eingefügt werden, z.B. mit Spalten für Gerätetyp, Seriennummer, nächster Kalibriertermin, Kalibrierstatus.)
+
+[cols="1,2,2,2",options="header"]
+|===
+|ID |Gerätetyp |Seriennummer |Nächste Kalibrierung
+|MM-001 |Installationstester XYZ |123456789 |2025-08-31
+|MM-002 |Multimeter ABC |987654321 |2024-11-15
+|===

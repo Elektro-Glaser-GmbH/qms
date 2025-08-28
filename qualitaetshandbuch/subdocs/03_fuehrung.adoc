@@ -1,0 +1,45 @@
+=== Führung und Verpflichtung
+
+Die Geschäftsleitung verpflichtet sich zur Etablierung, Aufrechterhaltung und kontinuierlichen Verbesserung des QMS. Dies zeigen wir durch:
+
+*   Die Bereitstellung aller notwendigen Ressourcen.
+*   Die Kommunikation der Bedeutung eines effektiven Qualitätsmanagements an alle Mitarbeiter.
+*   Die Festlegung der Qualitätspolitik und der Qualitätsziele.
+*   Die Durchführung regelmäßiger Managementbewertungen.
+
+==== Kundenorientierung
+
+Wir stellen sicher, dass Kundenanforderungen verstanden, erfüllt und die Kundenzufriedenheit kontinuierlich gesteigert wird. Kundenfeedback, ob positiv oder im Falle einer Nichtkonformität, wird systematisch erfasst und ausgewertet.
+
+==== Rollen, Verantwortlichkeiten und Befugnisse
+
+Die Verantwortlichkeiten für das QMS und die einzelnen Prozesse sind klar definiert und werden allen Mitarbeitern kommuniziert (siehe auch Organigramm und Stellenbeschreibungen).
+
+=== Qualitätspolitik
+
+Unsere Qualitätspolitik bei der Elektro-Glaser GmbH:
+
+"Bei der Elektro-Glaser GmbH steht die **Zufriedenheit unserer Kunden** an erster Stelle. Wir verpflichten uns, Elektroinstallationen und Dienstleistungen in **höchster Qualität und Sicherheit** zu liefern, die den Erwartungen unserer Kunden, den gesetzlichen Vorschriften und den anerkannten Regeln der Technik voll entsprechen.
+
+Wir erreichen dies durch:
+
+*   Die konsequente Anwendung unserer Prozesse und die fortlaufende **Schulung und Qualifizierung** unserer Mitarbeiter.
+*   Die **kontinuierliche Verbesserung** unseres Qualitätsmanagementsystems und unserer Arbeitsabläufe.
+*   Den **aktiven Dialog** mit unseren Kunden, um deren Bedürfnisse zu verstehen und zu erfüllen.
+*   Die Sicherstellung der **Wirksamkeit und Zuverlässigkeit** unserer Messmittel und Werkzeuge (z.B. durch regelmäßige Kalibrierung).
+*   Die **Einhaltung aller relevanter Normen und Gesetze**, insbesondere der VDE-Bestimmungen und des Arbeitsschutzes."
+
+Die Qualitätspolitik wird regelmäßig auf ihre fortwährende Angemessenheit bewertet und ist allen Mitarbeitern zugänglich.
+
+=== Rollen, Verantwortlichkeiten und Befugnisse in der Organisation
+
+Die Hauptverantwortlichkeiten sind wie folgt verteilt:
+
+*   *Geschäftsleitung:* Gesamtverantwortung für das QMS, Festlegung der Qualitätspolitik und -ziele, Bereitstellung von Ressourcen, Managementbewertung.
+*   *Qualitätsbeauftragter (QB):* Ist der Geschäftsleitung direkt unterstellt. Verantwortlich für die Pflege des QMS, Organisation interner Audits, Überwachung der Prozessleistung, Ansprechpartner für Qualitätsfragen. (Diese Rolle kann auch von der Geschäftsleitung selbst oder einem benannten Mitarbeiter übernommen werden).
+*   *Projekt-/Bauleiter:* Verantwortung für die qualitätsgerechte Ausführung der Projekte, Einhaltung von Terminen und Budgets, Personaleinsatzplanung, Kundenkommunikation auf Baustellen.
+*   *Monteure/Elektriker:* Eigenverantwortliche Durchführung der Installationsarbeiten nach den geltenden Normen und Anweisungen, Einhaltung der Arbeitssicherheit, Dokumentation der Arbeiten.
+*   *Einkauf/Lager:* Beschaffung und Bereitstellung qualitätsgerechter Materialien, Lieferantenbewertung.
+*   *Verwaltung:* Auftragserfassung, Rechnungsstellung, Personalverwaltung.
+
+(Detaillierte Beschreibungen der Rollen und Verantwortlichkeiten finden sich in den Stellenbeschreibungen und im Organigramm.)

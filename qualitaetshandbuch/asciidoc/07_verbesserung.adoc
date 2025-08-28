@@ -1,0 +1,21 @@
+== 7. Verbesserung (ISO 9001:2015, Kapitel 10)
+
+=== 7.1 Allgemeines
+Wir nutzen die Ergebnisse der Leistungsevaluierung (Kapitel 9), um Möglichkeiten zur kontinuierlichen Verbesserung zu identifizieren und umzusetzen.
+
+=== 7.2 Nichtkonformität und Korrekturmaßnahmen
+Im Falle von Nichtkonformitäten (z.B. festgestellte Fehler, Abweichungen von Prozessen, Kundenreklamationen) werden unverzüglich Maßnahmen ergriffen.
+
+- Behandlung der Nichtkonformität
+- Beseitigung der Ursachen, um ein Wiederauftreten zu verhindern (Wurzelanalyse)
+- Überprüfung der Wirksamkeit der Korrekturmaßnahmen
+(Dokumentation: Korrekturmaßnahmenbericht, 8D-Report o.ä.)
+
+=== 7.3 Kontinuierliche Verbesserung
+Wir verbessern ständig die Eignung, Angemessenheit und Wirksamkeit unseres QMS durch:
+
+- Nutzung der Qualitätspolitik und -ziele
+- Auditergebnisse
+- Analyse von Daten
+- Korrektur- und Vorbeugemaßnahmen
+- Managementbewertung

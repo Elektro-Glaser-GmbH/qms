@@ -1,0 +1,51 @@
+== 1. Kontext der Organisation (ISO 9001:2015, Kapitel 4)
+
+=== 1.1 Verständnis der Organisation und ihres Kontextes
+[Ihrer Firmenname] ist ein Elektroinstallationsunternehmen, das sowohl für Privat- als auch für Geschäftskunden tätig ist. Wir bieten ein breites Spektrum an Dienstleistungen, von der Neuinstallation über Sanierungen bis hin zu Wartung und Prüfung elektrischer Anlagen.
+
+==== 1.1.1 Externe und interne Themen
+Extern::
+- Rechtliche und regulatorische Anforderungen (VDE-Normen, DIN-Vorschriften, Baurecht, Arbeitsschutz)
+- Technologische Entwicklungen (Smart Home, E-Mobilität, PV-Anlagen)
+- Wettbewerb, Marktpreise, wirtschaftliches Umfeld
+- Lieferketten (Verfügbarkeit und Preise von Material)
+Intern::
+- Qualifikation und Verfügbarkeit von Fachkräften
+- Technologische Ausstattung (Werkzeuge, Messgeräte, Fuhrpark)
+- Unternehmenskultur, Kommunikationsstrukturen
+- Finanzielle Leistungsfähigkeit
+
+=== 1.2 Verständnis der Erfordernisse und Erwartungen interessierter Parteien
+Wir identifizieren und berücksichtigen die relevanten interessierten Parteien und deren Anforderungen:
+
+- Kunden: Termintreue, Qualität der Ausführung, Einhaltung von Kosten, Dokumentation, Beratung
+- Mitarbeiter: Arbeitssicherheit, faire Bezahlung, Weiterbildung, gutes Arbeitsklima
+- Lieferanten: Pünktliche Bezahlung, klare Bestellungen, langfristige Partnerschaften
+- Behörden/Gesetzgeber: Einhaltung aller gesetzlichen Vorschriften, Normen und Richtlinien
+- Eigentümer/Geschäftsführung: Wirtschaftlicher Erfolg, Wachstum, Image
+- Umfeld: Umweltschutz, Lärmschutz auf Baustellen
+
+(Dokumentation: Liste interessierter Parteien und ihre Anforderungen, z.B. in der Managementbewertung)
+
+=== 1.3 Festlegen des Anwendungsbereichs des Qualitätsmanagementsystems (QMS)
+Der Anwendungsbereich des QMS von [Ihrer Firmenname] umfasst:
+
+- Dienstleistungen: Planung, Installation, Wartung, Prüfung und Reparatur von elektrischen Anlagen und Systemen im privat- und gewerblichen Bereich, einschließlich Smart-Home-Lösungen, Beleuchtungstechnik, Netzwerktechnik und E-Mobilitätsinfrastruktur
+- Standorte: [Alle relevanten Adressen Ihrer Betriebsstandorte]
+- Ausschlüsse: Es gibt keine Ausschlüsse von Anforderungen der ISO 9001:2015, da alle Aspekte der Norm auf unsere Geschäftstätigkeit anwendbar sind
+
+=== 1.4 Qualitätsmanagementsystem und seine Prozesse
+Wir definieren unsere Kernprozesse zur Erbringung unserer Dienstleistungen:
+
+- Kundenakquise & Angebotsphase
+- Auftragsplanung & -vorbereitung
+- Materialbeschaffung & Logistik
+- Installation & Ausführung
+- Prüfung & Abnahme
+- Dokumentation & Übergabe
+- Abrechnung & Nachbetreuung (Wartung, Service)
+
+Unterstützende Prozesse: Personalmanagement, Finanzmanagement, Messmittelmanagement, IT-Management, Marketing, Qualitätsmanagement
+
+==== 1.4.1 Prozesslandkarte
+(Hier würde eine visuelle Darstellung Ihrer Prozesse, ihrer Inputs, Outputs und Wechselwirkungen eingefügt – z.B. ein Flussdiagramm)

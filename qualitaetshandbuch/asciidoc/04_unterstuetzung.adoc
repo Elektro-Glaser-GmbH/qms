@@ -1,0 +1,65 @@
+== 4. Unterstützung (ISO 9001:2015, Kapitel 7)
+
+=== 4.1 Ressourcen
+
+==== 4.1.1 Personal
+Bereitstellung von ausreichend qualifiziertem Personal. Bedarf an Personal wird regelmäßig ermittelt (siehe 4.2 Kompetenz).
+
+==== 4.1.2 Infrastruktur
+- Gebäude und Betriebsstätten: Angemessene und sichere Büros und Lagerräume
+- Werkzeuge und Anlagen: Modernes, gewartetes Werkzeug und Maschinen für effiziente und sichere Arbeit
+- Fuhrpark: Wartung und Instandhaltung der Firmenfahrzeuge
+- IT-Ressourcen: Software (Lexware Office Online App, specialized planning software), Hardware, Netzwerk, Datensicherung
+
+==== 4.1.3 Umgebung für den Betrieb von Prozessen
+Sicherstellung einer geeigneten Arbeitsumgebung auf Baustellen und im Büro (Ergonomie, Sicherheit, Sauberkeit bei Auftragsabwicklung)
+
+==== 4.1.4 Ressourcen zur Überwachung und Messung (Messmittelmanagement, Kalibrierung)
+Wir stellen sicher, dass alle für die Qualitätssicherung relevanten Messmittel (z.B. Installationstester, Multimeter, Zangenamperemeter) regelmäßig kalibriert werden.
+Die Kalibrierung erfolgt durch externe, akkreditierte Labore oder autorisierte Stellen.
+Jedes Messmittel wird identifiziert, registriert und hat einen Kalibrierplan.
+Die Kalibrierintervalle sind in der Regel jährlich, können aber basierend auf Nutzung und Historie angepasst werden.
+Nachweise der Kalibrierungen werden archiviert.
+(Dokumentation: Messmittelverzeichnis, Kalibrierplan, Kalibrierzertifikate)
+
+==== 4.1.5 Wissen der Organisation
+Das Wissen der Organisation wird identifiziert, gepflegt und bei Bedarf erweitert (z.B. durch Dokumentation von Best Practices, Lessons Learned, Schulungen).
+
+=== 4.2 Kompetenz
+Wir stellen sicher, dass alle Mitarbeiter, die qualitätsrelevante Tätigkeiten ausführen, die erforderliche Kompetenz besitzen.
+
+- Ermittlung des Kompetenzbedarfs (basierend auf Stellenanforderungen)
+- Schulungen und Weiterbildungen (intern/extern, z.B. VDE-Seminare, neue Technologien)
+- Beurteilung der Wirksamkeit der Maßnahmen
+(Dokumentation: Schulungspläne, Schulungsnachweise, Kompetenzmatrix)
+
+=== 4.3 Bewusstsein
+Alle Mitarbeiter sind sich der Bedeutung des QMS und ihres Beitrags zur Qualität und Kundenzufriedenheit bewusst (durch Schulungen, Kommunikation der Qualitätspolitik und -ziele).
+
+=== 4.4 Kommunikation
+Interne und externe Kommunikation wird geplant und durchgeführt.
+
+Intern::
+- Regelmäßige Teambesprechungen
+- interne Schulungen
+- Informationsaushänge
+- Intranet/interne Kommunikationsplattform
+Extern::
+- Kundenkommunikation (Angebote, Rückfragen, Beschwerden)
+- Lieferantenkommunikation
+- Kommunikation mit Behörden
+(Dokumentation: Kommunikationsplan)
+
+=== 4.5 Dokumentierte Informationen
+Wir lenken unsere dokumentierten Informationen, um ihre Verfügbarkeit, Eignung und Integrität zu gewährleisten.
+
+==== 4.5.1 Erstellung und Aktualisierung
+Dokumente werden eindeutig identifiziert (Titel, Datum, Version), geprüft und genehmigt.
+
+==== 4.5.2 Lenkung dokumentierter Informationen
+- Verfügbarkeit und Eignung zur Nutzung am Ort der Anwendung
+- Schutz vor unbefugtem Zugriff oder Verlust
+- Verteilung, Zugriff, Abruf und Nutzung
+- Speicherung und Erhaltung der Lesbarkeit
+- Überprüfung und Entsorgung
+(Dokumentation: Dokumentenlenkungsverfahren, Standardvorlagen, Ablagesystem)

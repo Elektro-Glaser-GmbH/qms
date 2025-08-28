@@ -1,0 +1,50 @@
+=== Überwachung, Messung, Analyse und Bewertung
+
+Wir überwachen, messen, analysieren und bewerten die Leistung und Wirksamkeit unseres QMS.
+
+==== Kundenzufriedenheit
+
+Die Kundenzufriedenheit wird durch geeignete Methoden gemessen und bewertet, z.B. durch direkte Kundenbefragungen, die Analyse von Kundenfeedback und die Auswertung von Reklamationen.
+
+==== Analyse und Bewertung
+
+Wir analysieren die gesammelten Daten und Informationen aus Überwachung und Messung, um:
+
+*   Die Konformität von Produkten und Dienstleistungen zu bewerten.
+*   Die Wirksamkeit des QMS zu beurteilen.
+*   Die Leistung externer Anbieter zu bewerten.
+*   Die Leistung der Prozesse zu beurteilen.
+*   Die Wirksamkeit der Maßnahmen zum Umgang mit Risiken und Chancen zu beurteilen.
+*   Bedarf zur Verbesserung zu identifizieren.
+
+=== Internes Audit
+
+Regelmäßige interne Audits werden geplant und durchgeführt, um Informationen darüber zu erhalten, ob das QMS:
+
+*   Den Anforderungen der ISO 9001:2015 sowie den eigenen Anforderungen der Elektro-Glaser GmbH entspricht.
+*   Wirksam verwirklicht und aufrechterhalten wird.
+
+Die Auditoren sind unabhängig von dem zu auditierenden Bereich. Auditfeststellungen und die Notwendigkeit von Korrekturmaßnahmen werden dokumentiert und deren Umsetzung verfolgt.
+
+(Dokumentation: 'Jahres-Auditplan', 'Auditberichte', 'Auditorenqualifikation').
+
+=== Managementbewertung
+
+Die Geschäftsleitung bewertet in geplanten Abständen (mindestens einmal jährlich) die Angemessenheit, Eignung und Wirksamkeit des QMS.
+
+Als *Eingaben* für die Managementbewertung dienen:
+
+*   Der Status früherer Maßnahmen aus Managementbewertungen.
+*   Änderungen externer und interner Themen, die für das QMS relevant sind.
+*   Informationen über die Leistung und Wirksamkeit des QMS (z.B. Ergebnisse der internen Audits, Kundenfeedback, Prozessleistung, Daten zu Nichtkonformitäten, Stand der Korrekturmaßnahmen).
+*   Ergebnisse der Überwachung und Messung (einschließlich Kundenzufriedenheit).
+*   Ergebnisse der Analyse von Risiken und Chancen.
+*   Chancen für die kontinuierliche Verbesserung.
+
+Als *Ergebnisse* der Managementbewertung dienen:
+
+*   Entscheidungen und Maßnahmen bezüglich der Notwendigkeit von Änderungen am QMS.
+*   Bedarf an Ressourcen.
+*   Möglichkeiten zur kontinuierlichen Verbesserung.
+
+(Dokumentation: Protokolle der Managementbewertung).

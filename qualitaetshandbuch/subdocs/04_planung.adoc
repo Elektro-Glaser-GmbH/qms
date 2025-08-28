@@ -1,0 +1,47 @@
+=== Maßnahmen zum Umgang mit Risiken und Chancen
+
+Wir identifizieren regelmäßig Risiken und Chancen, die sich auf die Erreichung unserer Qualitätsziele auswirken könnten. Dies umfasst sowohl positive (Chancen) als auch negative (Risiken) Aspekte.
+
+[cols="1,1",options="header"]
+|===
+|Risiken |Chancen
+|Materialmangel, Fachkräftemangel
+|Neue Technologien (z.B. AI-gesteuerte Steuerungssysteme, innovative Speichersysteme)
+|Fehlerhafte Installationen, Sicherheitsmängel
+|Neue Marktsegmente (z.B. Ladeinfrastruktur für E-Mobilität, Smart Building Automation)
+|Projektverzögerungen, Überschreiten von Budgets
+|Effizienzsteigerungen durch Prozessoptimierung
+|Reputationsschäden durch Kundenreklamationen
+|Mitarbeiterentwicklung und -bindung
+|===
+
+Wir planen Maßnahmen zur Adressierung dieser Risiken und zur Nutzung der Chancen. Die Ergebnisse dieser Analyse werden in der Managementbewertung überprüft.
+
+(Dokumentation: 'Risiko- und Chancenregister', Maßnahmenpläne).
+
+=== Qualitätsziele und Planung zu deren Erreichung
+
+Die Geschäftsleitung legt jährliche Qualitätsziele fest, die SMART (Spezifisch, Messbar, Attraktiv, Relevant, Terminiert) sind. Diese Ziele sind abgeleitet aus der Qualitätspolitik und den identifizierten Risiken und Chancen.
+
+Beispiele für Qualitätsziele:
+
+*   Senkung der Kundenreklamationen um 10 % innerhalb des nächsten Jahres.
+*   Erhöhung der Kundenzufriedenheit um 5 % (gemessen durch Kundenbefragungen).
+*   Abschluss von 95 % aller Projekte innerhalb des geplanten Zeitrahmens.
+*   Reduzierung von Materialverschnitt/Ausschuss um 5 % im Vergleich zum Vorjahr.
+*   Alle Installationstester werden jährlich kalibriert (100 % Konformität).
+
+Für jedes Ziel werden Maßnahmen geplant, Verantwortlichkeiten zugewiesen und Fortschritte überwacht.
+
+(Dokumentation: 'Qualitätsziele-Matrix' und regelmäßige Statusberichte).
+
+=== Planung von Änderungen
+
+Wesentliche Änderungen im QMS (z.B. neue Prozesse, Einführung neuer Technologien, Änderung der Organisationsstruktur) werden geplant, um deren Wirksamkeit und Integrität zu gewährleisten. Die Planung berücksichtigt:
+
+*   Den Zweck der Änderungen und ihre potenziellen Folgen.
+*   Die Integrität des QMS.
+*   Die Verfügbarkeit von Ressourcen.
+*   Die Zuweisung oder Neuzuteilung von Verantwortlichkeiten und Befugnissen.
+
+(Dokumentation: 'Änderungsmanagement-Prozess', Projektpläne).

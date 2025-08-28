@@ -1,0 +1,56 @@
+=== Verständnis der Organisation und ihres Kontextes
+
+Die Elektro-Glaser GmbH ist ein Elektroinstallationsunternehmen, das sowohl für Privat- als auch für Geschäftskunden tätig ist. Wir bieten ein breites Spektrum an Dienstleistungen, von der Neuinstallation über Sanierungen bis hin zu Wartung und Prüfung elektrischer Anlagen.
+
+==== Externe und interne Themen
+
+Hier identifizieren wir Faktoren, die unser QMS beeinflussen können:
+
+[cols="1,1",options="header"]
+|===
+|Externe Themen |Interne Themen
+|Rechtliche und regulatorische Anforderungen (VDE-Normen, DIN-Vorschriften, Baurecht, Arbeitsschutz)
+|Qualifikation und Verfügbarkeit von Fachkräften
+|Technologische Entwicklungen (Smart Home, E-Mobilität, PV-Anlagen)
+|Technologische Ausstattung (Werkzeuge, Messgeräte, Fuhrpark)
+|Wettbewerb, Marktpreise, wirtschaftliches Umfeld
+|Unternehmenskultur, Kommunikationsstrukturen
+|Lieferketten (Verfügbarkeit und Preise von Material)
+|Finanzielle Leistungsfähigkeit
+|===
+
+=== Verständnis der Erfordernisse und Erwartungen interessierter Parteien
+
+Wir identifizieren und berücksichtigen die relevanten interessierten Parteien und deren Anforderungen, die für unser QMS relevant sind:
+
+*   *Kunden:* Termintreue, Qualität der Ausführung, Einhaltung von Kosten, fehlerfreie Dokumentation, kompetente Beratung.
+*   *Mitarbeiter:* Arbeitssicherheit, faire Bezahlung, Weiterbildungsmöglichkeiten, gutes Betriebsklima.
+*   *Lieferanten:* Pünktliche Bezahlung, klare Bestellungen, langfristige und zuverlässige Partnerschaften.
+*   *Behörden/Gesetzgeber:* Einhaltung aller gesetzlichen Vorschriften, Normen und Richtlinien (z.B. VDE, DGUV).
+*   *Eigentümer/Geschäftsführung:* Wirtschaftlicher Erfolg, nachhaltiges Wachstum, positives Unternehmensimage.
+*   *Umfeld:* Umweltschutz, Lärmschutz auf Baustellen, verantwortungsvoller Umgang mit Ressourcen.
+
+(Die detaillierte Analyse der interessierten Parteien und ihrer Anforderungen wird im Dokument 'Analyse interessierter Parteien' beschrieben und in der Managementbewertung regelmäßig überprüft.)
+
+=== Festlegen des Anwendungsbereichs des Qualitätsmanagementsystems (QMS)
+
+Der Anwendungsbereich des QMS der Elektro-Glaser GmbH umfasst:
+
+*   *Dienstleistungen:* Planung, Installation, Wartung, Prüfung und Reparatur von elektrischen Anlagen und Systemen im privat- und gewerblichen Bereich, einschließlich Smart-Home-Lösungen, Beleuchtungstechnik, Netzwerktechnik und E-Mobilitätsinfrastruktur.
+*   *Standorte:* Hauptgeschäftssitz: [Ihre Hauptadresse], ggf. weitere Standorte: [weitere Adressen].
+*   *Ausschlüsse:* Es gibt keine Ausschlüsse von Anforderungen der ISO 9001:2015, da alle Aspekte der Norm auf unsere Geschäftstätigkeit anwendbar sind.
+
+=== Qualitätsmanagementsystem und seine Prozesse
+
+Wir definieren unsere Kernprozesse zur Erbringung unserer Dienstleistungen:
+
+*   Kundenakquise & Angebotsphase
+*   Auftragsplanung & -vorbereitung
+*   Materialbeschaffung & Logistik
+*   Installation & Ausführung
+*   Prüfung & Abnahme
+*   Dokumentation & Übergabe
+*   Abrechnung & Nachbetreuung (Wartung, Service)
+*   *Unterstützende Prozesse:* Personalmanagement, Finanzmanagement, Messmittelmanagement, IT-Management, Marketing, Qualitätsmanagement.
+
+(Eine detaillierte Prozesslandkarte finden Sie im Anhang B - Prozesslandkarte.)

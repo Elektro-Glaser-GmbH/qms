@@ -1,0 +1,38 @@
+== 3. Planung (ISO 9001:2015, Kapitel 6)
+
+=== 3.1 Maßnahmen zum Umgang mit Risiken und Chancen
+Wir identifizieren regelmäßig Risiken und Chancen, die sich auf die Erreichung unserer Qualitätsziele auswirken könnten.
+
+Beispiele Risiken::
+- Materialmangel
+- Fachkräftemangel
+- fehlerhafte Installationen
+- Sicherheitsmängel
+- Projektverzögerungen
+- Reputationsverlust
+Beispiele Chancen::
+- Neue Technologien
+- neue Marktsegmente
+- Effizienzsteigerungen
+- Mitarbeiterentwicklung
+- verbesserte Kundenzufriedenheit
+
+Wir planen Maßnahmen zur Adressierung dieser Risiken und zur Nutzung der Chancen.
+(Dokumentation: Risikoregister/-analyse, Maßnahmenpläne)
+
+=== 3.2 Qualitätsziele und Planung zu deren Erreichung
+Die Geschäftsleitung legt jährliche Qualitätsziele fest, die SMART (Spezifisch, Messbar, Attraktiv, Relevant, Terminiert) sind.
+
+Beispiele für Qualitätsziele::
+- Senkung der Kundenreklamationen um X % innerhalb eines Jahres
+- Erhöhung der Kundenzufriedenheit um Y % (gemessen durch Umfragen)
+- Abschluss von Z % aller Projekte innerhalb des geplanten Zeitrahmens
+- Reduzierung von Materialverschnitt/Ausschuss um X %
+- Alle Installationstester werden jährlich kalibriert (0 % Überfälligkeit)
+
+Für jedes Ziel werden Maßnahmen geplant, Verantwortlichkeiten zugewiesen und Fortschritte überwacht.
+(Dokumentation: Qualitätsziele-Matrix)
+
+=== 3.3 Planung von Änderungen
+Wesentliche Änderungen im QMS (z.B. neue Prozesse, neue Technologien, Änderung der Organisation) werden geplant, um deren Wirksamkeit und Integrität zu gewährleisten.
+(Dokumentation: Änderungsmanagement-Prozess, Projektpläne)

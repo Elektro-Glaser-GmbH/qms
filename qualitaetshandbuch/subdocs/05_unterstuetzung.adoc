@@ -1,0 +1,84 @@
+=== Ressourcen
+
+==== Personal
+
+Wir stellen sicher, dass ausreichend qualifiziertes Personal für alle Prozesse zur Verfügung steht. Der Bedarf an Personal und die erforderliche Kompetenz werden regelmäßig ermittelt.
+
+==== Infrastruktur
+
+Die Infrastruktur umfasst die erforderlichen Gebäude, Anlagen, Werkzeuge, Geräte, Fahrzeuge und IT-Systeme.
+
+[cols="2,2"]
+|===
+|Element |Beschreibung und Wartung
+|Gebäude und Betriebsstätten |Angemessene und sichere Büro-, Lager- und Werkstatträume. Regelmäßige Wartung und Prüfung nach geltenden Vorschriften.
+|Werkzeuge und Anlagen |Modernes, gewartetes und sicheres Werkzeug und Maschinen für effiziente und sichere Arbeit. Jährliche Prüfung nach DGUV V3 erforderlich.
+|Fuhrpark |Wartung und Instandhaltung der Firmenfahrzeuge nach Herstellervorgaben und gesetzlichen Vorschriften.
+|IT-Ressourcen |Zuverlässige Software (z.B. Lexware Office Online App, branchenspezifische Planungssoftware), Hardware, Netzwerk und Datensicherung. Regelmäßige Sicherungen und Updates.
+|===
+
+==== Umgebung für den Betrieb von Prozessen
+
+Wir stellen eine geeignete Arbeitsumgebung zur Verfügung, die Sicherheit, Gesundheit und Effizienz fördert, sowohl auf Baustellen als auch in unseren Betriebsräumen (z.B. Ergonomie, Sicherheit, Sauberkeit). Ein Sicherheits- und Gesundheitsschutzkonzept existiert.
+
+==== Ressourcen zur Überwachung und Messung (Messmittelmanagement, Kalibrierung)
+
+Wir stellen sicher, dass alle für die Qualitätssicherung und Konformitätsbewertung relevanten Messmittel (z.B. Installationstester, Multimeter, Zangenamperemeter) regelmäßig kalibriert werden, um die Gültigkeit der Messergebnisse zu gewährleisten.
+
+*   Die Kalibrierung erfolgt durch externe, akkreditierte Labore oder autorisierte Stellen.
+*   Jedes Messmittel wird eindeutig identifiziert (Typ, Seriennummer), registriert und in unserem 'Messmittelverzeichnis' geführt.
+*   Es wird ein Kalibrierplan erstellt und eingehalten. Die Kalibrierintervalle sind in der Regel jährlich, können aber basierend auf Nutzung, Herstellerangaben und Historie der Kalibrierergebnisse angepasst werden.
+*   Nachweise der Kalibrierungen (Kalibrierzertifikate) werden archiviert.
+*   Bei Feststellung der Ungültigkeit eines Messergebnisses werden entsprechende Maßnahmen ergriffen (z.B. Prüfung der betroffenen Installationen).
+
+==== Wissen der Organisation
+
+Das notwendige Wissen zur Erbringung unserer Dienstleistungen und zur Aufrechterhaltung des QMS wird identifiziert, gepflegt und bei Bedarf erweitert. Dies erfolgt durch:
+
+*   Dokumentation von Best Practices und 'Lessons Learned'.
+*   Mitarbeiterschulungen und kontinuierliche Weiterbildung.
+*   Zugang zu Fachliteratur und Normen.
+*   Wissensaustausch in Teambesprechungen.
+
+=== Kompetenz
+
+Wir stellen sicher, dass alle Mitarbeiter, die qualitätsrelevante Tätigkeiten ausführen, insbesondere diejenigen, die die Leistungsfähigkeit des QMS beeinflussen, die erforderliche Kompetenz besitzen. Dies beinhaltet:
+
+*   Ermittlung des Kompetenzbedarfs basierend auf den Anforderungen der jeweiligen Stellen und Aufgaben.
+*   Schulungen und Weiterbildungen (intern und extern, z.B. VDE-Seminare, Kurse zu neuen Technologien wie Smart Home oder PV-Anlagen).
+*   Beurteilung der Wirksamkeit der ergriffenen Maßnahmen zur Kompetenzentwicklung.
+
+(Dokumentation: Schulungspläne, Schulungsnachweise, Kompetenzmatrix der Mitarbeiter).
+
+=== Bewusstsein
+
+Alle Mitarbeiter sind sich der Bedeutung der Qualitätspolitik, der Qualitätsziele, ihres Beitrags zur Wirksamkeit des QMS und der Konsequenzen der Nichterfüllung der QMS-Anforderungen bewusst. Dies wird durch regelmäßige Kommunikation, Schulungen und transparente Prozesse gefördert.
+
+=== Kommunikation
+
+Wir planen und führen interne und externe Kommunikationsprozesse über unser QMS.
+
+*   *Intern:* Regelmäßige Teambesprechungen, interne Schulungen, Informationsaushänge, bei Bedarf Intranet/interne Kommunikationsplattform, E-Mail-Verteiler.
+*   *Extern:* Kundenkommunikation (Angebote, Rückfragen, Beschwerden), Lieferantenkommunikation, Kommunikation mit Behörden und anderen externen Parteien.
+
+(Dokumentation: Kommunikationsplan).
+
+=== Dokumentierte Informationen
+
+Wir lenken unsere dokumentierten Informationen, um ihre Verfügbarkeit, Eignung und Integrität zu gewährleisten. Dies umfasst das Qualitätshandbuch, Verfahrensanweisungen, Arbeitsanweisungen, Formulare, Checklisten und Aufzeichnungen.
+
+==== Erstellung und Aktualisierung
+
+Dokumente werden eindeutig identifiziert (Titel, Datum, Versionsnummer), geprüft, freigegeben und vor der Anwendung gültig gemacht.
+
+==== Lenkung dokumentierter Informationen
+
+Wir gewährleisten:
+
+*   Die Verfügbarkeit und Eignung zur Nutzung am Ort der Anwendung.
+*   Den Schutz vor unbefugtem Zugriff oder Verlust.
+*   Die Verteilung, den Zugriff, den Abruf und die Nutzung.
+*   Die Speicherung und Erhaltung der Lesbarkeit, einschließlich des Schutzes vor unbeabsichtigten Änderungen.
+*   Die ordnungsgemäße Aufbewahrungsfrist und Entsorgung veralteter Dokumente.
+
+(Dokumentation: 'Verfahrensanweisung Dokumentenlenkung', Standardvorlagen, Ablagesysteme digital und physisch).

@@ -1,0 +1,11 @@
+=== Vorwort des Managements
+
+Wir, die Geschäftsleitung der Elektro-Glaser GmbH, verpflichten uns zur kontinuierlichen Verbesserung unserer Prozesse und zur Sicherstellung der höchsten Qualität unserer Elektroinstallationsdienstleistungen und -produkte. Die Zufriedenheit unserer Kunden steht im Mittelpunkt unseres Handelns. Dieses Qualitätshandbuch ist unser Bekenntnis zu den Prinzipien der ISO 9001:2015 und dient als Leitfaden für unser Qualitätsmanagementsystem (QMS). Es soll Transparenz schaffen, die Einhaltung von Anforderungen sicherstellen und die fortlaufende Entwicklung unseres Unternehmens fördern.
+
+=== Zweck und Anwendungsbereich des Qualitätshandbuchs
+
+Dieses Qualitätshandbuch beschreibt das Qualitätsmanagementsystem (QMS) der Elektro-Glaser GmbH gemäß den Anforderungen der ISO 9001:2015. Es dokumentiert die Prozesse und Verantwortlichkeiten, um eine gleichbleibend hohe Qualität unserer Dienstleistungen – von der Planung über die Ausführung bis zur Abnahme und dem Service – zu gewährleisten. Der Anwendungsbereich umfasst alle Bereiche des Unternehmens, die an der Erbringung von Elektroinstallationsdienstleistungen beteiligt sind.
+
+=== Bezug zu ISO 9001:2015
+
+Dieses Handbuch ist nach der Struktur der ISO 9001:2015 aufgebaut. Die Abschnitte entsprechen den jeweiligen Kapiteln der Norm und beschreiben, wie die Anforderungen der Norm in unserem Unternehmen umgesetzt werden.

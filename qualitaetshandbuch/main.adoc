@@ -1,0 +1,51 @@
+= Qualitätshandbuch Elektro-Glaser GmbH
+:author: Daniel Glaser
+:revnumber: 0.1
+:revdate: {localdate}
+:doctype: book
+:toc: left
+:toclevels: 2
+:icons: font
+:sectnums:
+:section-numbers:
+:imagesdir: ../img
+:experimental:
+
+// Dies ist eine AsciiDoc-Datei für das Qualitätshandbuch der Elektro-Glaser GmbH.
+// Sie kann mit Asciidoctor in HTML, PDF oder andere Formate konvertiert werden.
+// Zum Beispiel: asciidoctor-pdf qualitaetshandbuch.adoc - zum Erzeugen einer PDF
+
+image::Elektro-Glaser_Logo.png[Elektro-Glaser GmbH]
+
+[IMPORTANT]
+====
+Bei diesem Dokument handelt es sich um eine Vorlage, die einer ständigen Bearbeitung unterliegt. Sobald ein erstes brauchbares Dokument vorliegt, wird dieser Hinweistext entfernt.
+
+Die ISO 9001:2015 verlangt kein explizites "Qualitätshandbuch" mehr. Sie fordert jedoch "dokumentierte Informationen", die die Wirksamkeit des Qualitätsmanagementsystems belegen. Ein strukturiertes Dokument wie dieses Handbuch ist jedoch nach wie vor eine sehr gute und übliche Methode, um diese Informationen zusammenzufassen und den Überblick über das System zu behalten. Es ist ein "Leitfaden für Ihr QMS" (innolytics.de)
+====
+== Einleitung
+include::subdocs/01_einleitung.adoc[]
+
+== Kontext der Organisation (ISO 9001:2015, Kapitel 4)
+include::subdocs/02_kontext.adoc[]
+
+== Führung (ISO 9001:2015, Kapitel 5)
+include::subdocs/03_fuehrung.adoc[]
+
+== Planung (ISO 9001:2015, Kapitel 6)
+include::subdocs/04_planung.adoc[]
+
+== Unterstützung (ISO 9001:2015, Kapitel 7)
+include::subdocs/05_unterstuetzung.adoc[]
+
+== Betrieb (ISO 9001:2015, Kapitel 8)
+include::subdocs/06_betrieb.adoc[]
+
+== Bewertung der Leistung (ISO 9001:2015, Kapitel 9)
+include::subdocs/07_bewertung.adoc[]
+
+== Verbesserung (ISO 9001:2015, Kapitel 10)
+include::subdocs/08_verbesserung.adoc[]
+
+== Anhänge
+include::subdocs/09_anhang.adoc[]

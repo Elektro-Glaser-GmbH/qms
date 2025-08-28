@@ -1,0 +1,39 @@
+== 2. Führung (ISO 9001:2015, Kapitel 5)
+
+=== 2.1 Führung und Verpflichtung
+Die Geschäftsleitung verpflichtet sich zur Etablierung, Aufrechterhaltung und kontinuierlichen Verbesserung des QMS. Dies zeigt sich durch:
+
+- Bereitstellung notwendiger Ressourcen
+- Kommunikation der Bedeutung des QMS
+- Festlegung der Qualitätspolitik und -ziele
+- Durchführung von Managementbewertungen
+
+==== 2.1.1 Kundenorientierung
+Wir stellen sicher, dass Kundenanforderungen verstanden, erfüllt und die Kundenzufriedenheit kontinuierlich erhöht wird.
+
+==== 2.1.2 Rollen, Verantwortlichkeiten und Befugnisse
+Die Verantwortlichkeiten für das QMS und die einzelnen Prozesse sind klar definiert und werden allen Mitarbeitern kommuniziert (siehe auch Stellenbeschreibungen und Organigramm).
+
+=== 2.2 Qualitätspolitik
+Unsere Qualitätspolitik bei [Ihrer Firmenname]:
+
+"Bei [Ihrer Firmenname] steht die Zufriedenheit unserer Kunden an erster Stelle. Wir verpflichten uns, Elektroinstallationen und Dienstleistungen in höchster Qualität und Sicherheit zu liefern, die den Erwartungen unserer Kunden, den gesetzlichen Vorschriften und den anerkannten Regeln der Technik voll entsprechen.
+
+Wir erreichen dies durch:
+
+- Die konsequente Anwendung unserer Prozesse und die fortlaufende Schulung und Qualifizierung unserer Mitarbeiter
+- Die kontinuierliche Verbesserung unseres Qualitätsmanagementsystems und unserer Arbeitsabläufe
+- Den aktiven Dialog mit unseren Kunden, um deren Bedürfnisse zu verstehen und zu erfüllen
+- Die Sicherstellung der Wirksamkeit und Zuverlässigkeit unserer Messmittel und Werkzeuge (z.B. durch regelmäßige Kalibrierung)
+- Die Einhaltung aller relevanter Normen und Gesetze, insbesondere der VDE-Bestimmungen und des Arbeitsschutzes"
+
+=== 2.3 Rollen, Verantwortlichkeiten und Befugnisse in der Organisation
+
+- Geschäftsleitung: Gesamtverantwortung für das QMS, Festlegung der Qualitätspolitik und -ziele, Bereitstellung von Ressourcen, Managementbewertung
+- Qualitätsbeauftragter (QB): Ist dem Management direkt unterstellt. Verantwortlich für die Pflege des QMS, Organisation interner Audits, Überwachung der Prozessleistung, Ansprechpartner für Qualitätsfragen. (Kann auch die Geschäftsleitung selbst sein oder ein benannter Mitarbeiter)
+- Projekt-/Bauleiter: Verantwortung für die qualitätsgerechte Ausführung der Projekte, Einhaltung von Terminen und Budgets, Personaleinsatzplanung, Kundenkommunikation auf Baustellen
+- Monteure/Elektriker: Eigenverantwortliche Durchführung der Installationsarbeiten nach den geltenden Normen und Anweisungen, Einhaltung der Arbeitssicherheit, Dokumentation der Arbeiten
+- Einkauf/Lager: Beschaffung und Bereitstellung qualitätsgerechter Materialien, Lieferantenbewertung
+- Verwaltung: Auftragserfassung, Rechnungsstellung, Personalverwaltung
+
+(Detaillierte Beschreibung in Stellenbeschreibungen und Organigramm)

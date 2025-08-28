@@ -1,0 +1,31 @@
+= Qualitätsmanagementhandbuch
+Elektro-Glaser GmbH
+:doctype: book
+:toc: left
+:toclevels: 3
+:icons: font
+:imagesdir: ../img
+:sectnums:
+:version: 1.0
+:date: 28. August 2025
+:author: [Ihr Name/Qualitätsbeauftragter]
+:valid-from: Ab Veröffentlichungsdatum
+
+image::Elektro-Glaser_Logo.png[Elektro-Glaser GmbH]
+
+[IMPORTANT]
+====
+Bei diesem Dokument handelt es sich um eine Vorlage, die einer ständigen Bearbeitung unterliegt. Sobald ein erstes brauchbares Dokument vorliegt, wird dieser Hinweistext entfernt.
+
+Die ISO 9001:2015 verlangt kein explizites "Qualitätshandbuch" mehr. Sie fordert jedoch "dokumentierte Informationen", die die Wirksamkeit des Qualitätsmanagementsystems belegen. Ein strukturiertes Dokument wie dieses Handbuch ist jedoch nach wie vor eine sehr gute und übliche Methode, um diese Informationen zusammenzufassen und den Überblick über das System zu behalten. Es ist ein "Leitfaden für Ihr QMS" (innolytics.de)
+====
+
+include::00_einleitung.adoc[]
+include::01_kontext.adoc[]
+include::02_fuehrung.adoc[]
+include::03_planung.adoc[]
+include::04_unterstuetzung.adoc[]
+include::05_betrieb.adoc[]
+include::06_bewertung.adoc[]
+include::07_verbesserung.adoc[]
+include::anhang.adoc[]

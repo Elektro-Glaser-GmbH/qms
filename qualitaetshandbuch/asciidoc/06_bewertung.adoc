@@ -1,0 +1,34 @@
+== 6. Bewertung der Leistung (ISO 9001:2015, Kapitel 9)
+
+=== 6.1 Überwachung, Messung, Analyse und Bewertung
+
+==== 6.1.1 Kundenzufriedenheit
+Messung der Kundenzufriedenheit durch geeignete Methoden (z.B. direkte Kundenbefragungen, Feedback, Analyse von Reklamationen, Reviews).
+
+==== 6.1.2 Analyse und Bewertung
+Analyse der gesammelten Daten (z.B. Prüfergebnisse, Reklamationsquoten, Lieferantenleistungen, Termintreue) zur Bewertung der Wirksamkeit des QMS.
+
+=== 6.2 Internes Audit
+Regelmäßige interne Audits werden geplant und durchgeführt, um die Konformität des QMS mit den Anforderungen der ISO 9001 und den eigenen Unternehmensanforderungen sowie dessen Wirksamkeit zu überprüfen.
+
+- Auditoren sind unabhängig von dem zu auditierten Bereich
+- Auditfeststellungen und Korrekturmaßnahmen werden dokumentiert und verfolgt
+(Dokumentation: Auditplan, Auditberichte, Auditorenqualifikation)
+
+=== 6.3 Managementbewertung
+Die Geschäftsleitung bewertet in geplanten Abständen die Angemessenheit, Eignung und Wirksamkeit des QMS.
+
+Input::
+- Auditergebnisse
+- Kundenfeedback
+- Prozessleistung
+- Nichtkonformitäten
+- Korrekturmaßnahmen
+- Ergebnisse früherer Managementbewertungen
+- Risiken und Chancen
+- Änderungen etc.
+Output::
+- Entscheidungen und Maßnahmen bezüglich der kontinuierlichen Verbesserung
+- Ressourcenbedarf
+- Verbesserungsbedarf für das QMS
+(Dokumentation: Protokolle der Managementbewertung)

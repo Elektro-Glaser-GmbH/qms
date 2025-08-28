@@ -1,0 +1,98 @@
+=== Betriebliche Planung und Steuerung
+
+Die Prozesse zur Erbringung unserer Dienstleistungen werden geplant, um die Anforderungen an Produkte und Dienstleistungen zu erfüllen. Dies beinhaltet die Bestimmung der erforderlichen Ressourcen, die Festlegung von Akzeptanzkriterien und die Bereitstellung dokumentierter Informationen.
+
+=== Anforderungen an Produkte und Dienstleistungen
+
+==== Kundenkommunikation
+
+Wir kommunizieren mit unseren Kunden bezüglich:
+
+*   Produkt- und Dienstleistungsinformationen.
+*   Anfragen, Verträge oder Auftragsbearbeitung.
+*   Kundenfeedback, Kundenreklamationen und Korrekturmaßnahmen.
+
+==== Bestimmung von Anforderungen
+
+Wir ermitteln alle relevanten Kundenanforderungen, einschließlich der Liefer- und Tätigkeiten nach der Lieferung, sowie gesetzliche, behördliche und branchenspezifische Anforderungen (z.B. VDE-Normen).
+
+==== Überprüfung von Anforderungen
+
+Bevor wir uns zur Lieferung eines Produkts oder einer Dienstleistung verpflichten, überprüfen wir, ob die Anforderungen vollständig, eindeutig und machbar sind.
+
+==== Änderungen von Anforderungen
+
+Änderungen von Anforderungen werden vor der Umsetzung dokumentiert und relevanten Parteien kommuniziert.
+
+=== Entwicklung von Produkten und Dienstleistungen (falls zutreffend)
+
+Soweit wir neue oder wesentlich geänderte Produkte oder spezielle Kundenlösungen (z.B. komplexe Steuerungssysteme, innovative Smart-Home-Konzepte) entwickeln, wenden wir einen strukturierten Entwicklungsprozess an. Dieser umfasst:
+
+*   *Entwicklungsplanung:* Festlegung der Phasen, Prüfungen (Reviews), Verifizierung und Validierung.
+*   *Entwicklungseingaben:* Bestimmung der Anforderungen an die Entwicklung.
+*   *Entwicklungssteuerungen:* Geeignete Maßnahmen zur Steuerung des Entwicklungsprozesses.
+*   *Entwicklungsergebnisse:* Bestätigung der Erfüllung der Anforderungen.
+*   *Entwicklungsänderungen:* Steuerung von Änderungen während oder nach der Entwicklung.
+
+=== Steuerung von extern bereitgestellten Prozessen, Produkten und Dienstleistungen (Lieferantenmanagement)
+
+Wir stellen sicher, dass extern bezogene Produkte und Dienstleistungen unseren Anforderungen entsprechen, um eine Beeinträchtigung unserer Fähigkeit zur Bereitstellung konformer Produkte und Dienstleistungen zu verhindern.
+
+==== Art und Umfang der Steuerung
+
+Wir bewerten und wählen Lieferanten anhand objektiver Kriterien (z.B. Qualität des Materials, Liefertreue, Zuverlässigkeit, Zertifikate) aus. Die Steuerung der externen Anbieter richtet sich nach dem Risikopotenzial des bezogenen Produktes/der Dienstleistung.
+
+(Dokumentation: 'Lieferantenbewertung', 'Liste zugelassener Lieferanten').
+
+==== Informationen für externe Anbieter
+
+Klare und vollständige Spezifikationen und Anforderungen werden den externen Anbietern in Bestellungen und Verträgen mitgeteilt.
+
+=== Produktion und Dienstleistungserbringung
+
+==== Steuerung der Produktion und Dienstleistungserbringung
+
+Wir stellen sicher, dass die Produktion und Dienstleistungserbringung unter kontrollierten Bedingungen erfolgt, einschließlich:
+
+*   Verfügbarkeit dokumentierter Informationen (z.B. Installationspläne, Schaltpläne, Arbeitsanweisungen, Checklisten).
+*   Verfügbarkeit geeigneter Ressourcen (Material, Personal, Werkzeuge, Messmittel).
+*   Implementierung von Überwachungs- und Messaktivitäten an geeigneten Phasen.
+*   Festlegung von Kriterien für die Steuerung der Prozesse und für die Akzeptanz von Produkten und Dienstleistungen.
+
+==== Kennzeichnung und Rückverfolgbarkeit
+
+Materialien, Komponenten und Installationen werden, wo erforderlich, eindeutig gekennzeichnet und rückverfolgbar gehalten (z.B. durch Chargennummern, Seriennummern, Projektbezug auf Materiallisten und Bauplänen). Dies ist insbesondere wichtig für elektrische Komponenten und Geräte mit Prüfpflicht.
+
+==== Eigentum von Kunden oder externen Anbietern
+
+Wir gehen sorgfältig mit Eigentum Dritter um, das sich in unserem Besitz oder unter unserer Kontrolle befindet (z.B. vom Kunden gestelltes Material, Zugangsdaten, Schlüssel). Beschädigungen oder Verlust werden dokumentiert und dem Eigentümer gemeldet.
+
+==== Erhaltung
+
+Produkte und Materialien werden während der Handhabung, Lagerung, des Transports und der Lieferung geschützt und erhalten, um Konformität mit den Anforderungen sicherzustellen.
+
+==== Tätigkeiten nach der Lieferung
+
+Wir erfüllen die vereinbarten Tätigkeiten nach der Lieferung, einschließlich Garantie, Wartung, Reparatur und Kundendienst.
+
+==== Steuerung von Änderungen bei der Produktion/Dienstleistungserbringung
+
+Geplante Änderungen bei der Produktion oder Dienstleistungserbringung werden überprüft und gesteuert, um die fortgesetzte Konformität mit den Anforderungen sicherzustellen.
+
+=== Freigabe von Produkten und Dienstleistungen
+
+Die Freigabe unserer Produkte und Dienstleistungen an den Kunden erfolgt erst nach der vollständigen Verifizierung der Konformität mit den Anforderungen durch eine befugte Person (z.B. Projektleiter, Meisterelektriker). Die Freigabe wird dokumentiert.
+
+(Dokumentation: Prüfprotokolle nach VDE, Abnahmeprotokolle).
+
+=== Steuerung nichtkonformer Ergebnisse
+
+Im Falle einer Nichtkonformität (z.B. Installationsfehler, Materialfehler, Kundenreklamation, Abweichung in Prüfergebnissen) wird diese identifiziert, dokumentiert und Maßnahmen ergriffen, um die Auslieferung oder weitere Nutzung zu verhindern, bis die Nichtkonformität behoben ist. Dies beinhaltet:
+
+*   Korrektur der Nichtkonformität.
+*   Separierung/Zurückhalten der betroffenen Produkte oder Dienstleistungen.
+*   Information des Kunden, wenn relevant.
+*   Einholung einer Freigabe für Abweichungen, falls erforderlich.
+*   Dokumentation der ergriffenen Maßnahmen.
+
+(Dokumentation: 'Nichtkonformitätsbericht', 'Reklamationsmanagement-Formular').

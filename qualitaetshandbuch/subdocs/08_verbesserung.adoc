@@ -1,0 +1,26 @@
+=== Allgemeines
+
+Wir nutzen die Ergebnisse der Leistungsevaluierung (ISO 9001:2015, Kapitel 9), um Möglichkeiten zur kontinuierlichen Verbesserung zu identifizieren und umzusetzen. Dies beinhaltet die proaktive Analyse von Daten zur Identifizierung von Trends und potenziellen Problemen.
+
+=== Nichtkonformität und Korrekturmaßnahmen
+
+Im Falle von Nichtkonformitäten (z.B. festgestellte Fehler, Abweichungen von Prozessen, Kundenreklamationen) werden unverzüglich Maßnahmen ergriffen, um die Nichtkonformität zu beheben und deren erneutes Auftreten zu verhindern. Dies umfasst:
+
+*   Reaktion auf die Nichtkonformität (Kontrolle, Korrektur, Umgang mit Folgen).
+*   Bewertung der Notwendigkeit von Maßnahmen zur Beseitigung der Ursachen der Nichtkonformität (Wurzelanalyse), um ein Wiederauftreten zu verhindern.
+*   Umsetzung der erforderlichen Maßnahmen.
+*   Überprüfung der Wirksamkeit der Korrekturmaßnahmen.
+*   Aktualisierung von Risiken und Chancen, falls erforderlich.
+
+(Dokumentation: 'Korrekturmaßnahmenbericht', '8D-Report' oder ähnliches, je nach Komplexität).
+
+=== Kontinuierliche Verbesserung
+
+Wir verbessern ständig die Eignung, Angemessenheit und Wirksamkeit unseres Qualitätsmanagementsystems. Dies wird erreicht durch:
+
+*   Die Nutzung unserer Qualitätspolitik und Qualitätsziele.
+*   Die Ergebnisse der internen Audits und externen Audits.
+*   Die Analyse von Daten.
+*   Die umgesetzten Korrekturmaßnahmen.
+*   Die Ergebnisse der Managementbewertung.
+*   Die Förderung von Innovationsprozessen und Mitarbeiterbeteiligung.

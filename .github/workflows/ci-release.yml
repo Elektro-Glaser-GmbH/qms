@@ -1,0 +1,86 @@
+name: CI & Release
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  semver:
+    name: Version Bump
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
+    steps:
+      - uses: actions/checkout@v4
+        with:
+            fetch-depth: 0
+
+      - uses: paulhatch/semantic-version@v5.4.0
+        id: semver
+        with:
+          tag_prefix: 'v'
+          major_pattern: '/^(feat|fix|refactor)(\(.+\))?!:/'
+          minor_pattern: '/^(feat|fix|refactor)(\(.+\))?:/'
+          bump_each_commit: true
+          search_commit_body: true
+      - name: Set version output
+        run: echo "version=${{ steps.semver.outputs.version }}" >> $GITHUB_ENV
+
+  build-docs:
+    name: Build AsciiDoc Documents
+    runs-on: ubuntu-latest
+    needs: semver
+    strategy:
+      matrix:
+        doc:
+          - qualitaetshandbuch
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'
+
+      - name: Install Asciidoctor PDF
+        run: |
+          gem install asciidoctor-pdf
+
+      - name: Build PDF
+        run: |
+          mkdir -p build
+          asciidoctor-pdf "${{ matrix.doc }}/main.adoc" -o "build/${{ matrix.doc }}.pdf"
+
+      - name: Upload PDF Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ matrix.doc }}-pdf
+          path: build/${{ matrix.doc }}.pdf
+
+  release:
+    name: Create Release
+    runs-on: ubuntu-latest
+    needs: [semver, build-docs]
+    if: github.ref == 'refs/heads/main'
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download all artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: build
+      - name: Create Release Notes
+        id: notes
+        run: |
+          echo "# Veröffentlichte Dokumente" > build/RELEASE_NOTES.md
+          for pdf in build/**/*.pdf; do
+            echo "- [$(basename $pdf)]($pdf)" >> build/RELEASE_NOTES.md
+          done
+      - name: Create GitHub Release
+        if: ${{ !env.ACT }}
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: v${{ env.version }}
+          name: Release v${{ env.version }}
+          body_path: build/RELEASE_NOTES.md
+          files: build/**/*.pdf
