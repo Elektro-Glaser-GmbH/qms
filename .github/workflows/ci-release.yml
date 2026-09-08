@@ -12,11 +12,11 @@ jobs:
     runs-on: ubuntu-latest
     if: github.ref == 'refs/heads/main'
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v7
         with:
             fetch-depth: 0
 
-      - uses: paulhatch/semantic-version@v5.4.0
+      - uses: paulhatch/semantic-version@v6.0.4
         id: semver
         with:
           tag_prefix: 'v'
@@ -36,12 +36,12 @@ jobs:
         doc:
           - qualitaetshandbuch
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v7
 
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.4.5'
+          ruby-version: '4.0.6'
 
       - name: Install Asciidoctor PDF
         run: |
@@ -53,7 +53,7 @@ jobs:
           asciidoctor-pdf "${{ matrix.doc }}/main.adoc" -o "build/${{ matrix.doc }}.pdf"
 
       - name: Upload PDF Artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: ${{ matrix.doc }}-pdf
           path: build/${{ matrix.doc }}.pdf
@@ -64,9 +64,9 @@ jobs:
     needs: [semver, build-docs]
     if: github.ref == 'refs/heads/main'
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v7
       - name: Download all artifacts
-        uses: actions/download-artifact@v5
+        uses: actions/download-artifact@v8
         with:
           path: build
       - name: Create Release Notes
@@ -78,7 +78,7 @@ jobs:
           done
       - name: Create GitHub Release
         if: ${{ !env.ACT }}
-        uses: softprops/action-gh-release@v2
+        uses: softprops/action-gh-release@v3
         with:
           tag_name: v${{ env.version }}
           name: Release v${{ env.version }}
